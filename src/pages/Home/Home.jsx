@@ -2,10 +2,12 @@ import Banner from "../../components/Header/Banner/Banner";
 
 const Home = () => {
   return (
-    <div>
+    <main>
       <Banner></Banner>
-      Home
-    </div>
+      <div className="max-w-[1320px] mx-auto px-3 md:px-0">
+        
+      </div>
+    </main>
   )
 }
 
