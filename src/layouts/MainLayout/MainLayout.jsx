@@ -1,11 +1,19 @@
-import { Outlet } from "react-router-dom";
+import { Outlet, useNavigation } from "react-router-dom";
 import Header from "../../components/Header/Header";
+import Loader from "../../components/Loader/Loader";
 
 const MainLayout = () => {
+
+  const navigation = useNavigation();
+
   return (
     <>
       <Header></Header>
-      <Outlet></Outlet>
+      {
+        navigation.state === "loading"
+          ? <Loader></Loader>
+          : <Outlet></Outlet>
+      }
     </>
   )
 }
