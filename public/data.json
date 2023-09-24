@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "title": "Clean Water Project",
+    "category": "health",
+    "category_bg": "#ff5733",
+    "card_bg": "#e5f4f7",
+    "text_button_bg": "#3498db",
+    "description": "Help provide clean and safe drinking water to communities in need.",
+    "price": 25.0,
+    "picture": "clean_water.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Education for All",
+    "category": "education",
+    "category_bg": "#ffd700",
+    "card_bg": "#f0e68c",
+    "text_button_bg": "#008000",
+    "description": "Support quality education initiatives for underprivileged children.",
+    "price": 50.0,
+    "picture": "education.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Animal Shelter Fund",
+    "category": "clothing",
+    "category_bg": "#ff7f50",
+    "card_bg": "#ffebcd",
+    "text_button_bg": "#cd853f",
+    "description": "Help provide shelter and care for homeless animals in your community.",
+    "price": 20.0,
+    "picture": "animal_shelter.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Food Drive",
+    "category": "food",
+    "category_bg": "#ff8c00",
+    "card_bg": "#ffe4b5",
+    "text_button_bg": "#ff4500",
+    "description": "Contribute to feeding the hungry by supporting local food banks.",
+    "price": 15.0,
+    "picture": "food_drive.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Medical Relief",
+    "category": "health",
+    "category_bg": "#ff1493",
+    "card_bg": "#ffc0cb",
+    "text_button_bg": "#800080",
+    "description": "Provide medical aid to those in crisis situations and disaster-stricken areas.",
+    "price": 30.0,
+    "picture": "medical_relief.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Environmental Conservation",
+    "category": "education",
+    "category_bg": "#00ff00",
+    "card_bg": "#98fb98",
+    "text_button_bg": "#228b22",
+    "description": "Support initiatives to protect and preserve our natural world.",
+    "price": 35.0,
+    "picture": "environmental_conservation.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Children's Health Fund",
+    "category": "health",
+    "category_bg": "#ff69b4",
+    "card_bg": "#ff8c00",
+    "text_button_bg": "#ff1493",
+    "description": "Help provide healthcare for children in need of medical attention.",
+    "price": 40.0,
+    "picture": "childrens_health.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Housing for Homeless",
+    "category": "clothing",
+    "category_bg": "#0000ff",
+    "card_bg": "#87ceeb",
+    "text_button_bg": "#4169e1",
+    "description": "Support efforts to provide shelter and housing for homeless individuals.",
+    "price": 45.0,
+    "picture": "housing_for_homeless.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Artistic Expression",
+    "category": "clothing",
+    "category_bg": "#ffd700",
+    "card_bg": "#ffffe0",
+    "text_button_bg": "#ffa500",
+    "description": "Empower artists and promote creativity in your community.",
+    "price": 10.0,
+    "picture": "artistic_expression.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Elderly Care",
+    "category": "health",
+    "category_bg": "#9370db",
+    "card_bg": "#d8bfd8",
+    "text_button_bg": "#6a5acd",
+    "description": "Support programs that provide care and assistance to senior citizens.",
+    "price": 55.0,
+    "picture": "elderly_care.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Wildlife Conservation",
+    "category": "food",
+    "category_bg": "#228b22",
+    "card_bg": "#32cd32",
+    "text_button_bg": "#008000",
+    "description": "Help protect endangered species and their habitats.",
+    "price": 30.0,
+    "picture": "wildlife_conservation.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Disaster Relief",
+    "category": "food",
+    "category_bg": "#ff4500",
+    "card_bg": "#ff6347",
+    "text_button_bg": "#ff7f50",
+    "description": "Support disaster relief efforts to assist those affected by natural disasters.",
+    "price": 50.0,
+    "picture": "disaster_relief.jpg"
+  }
+]
