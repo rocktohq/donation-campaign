@@ -14,7 +14,7 @@ const Navbar = () => {
   </>
 
   return (
-    <nav className="navbar max-w-[1320px] mx-auto px-3 md:px-0">
+    <nav className="navbar max-w-[1320px] mx-auto px-3">
       <div className="navbar-start">
         <NavLink to="/">
           <Logo></Logo>
