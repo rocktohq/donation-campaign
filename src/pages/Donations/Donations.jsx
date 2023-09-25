@@ -20,7 +20,7 @@ const Donations = () => {
           <button onClick={handleDonate} className="btn text-white rounded" style={{ backgroundColor: text_button_bg }}>Donate ${price}</button>
         </div>
       </figure>
-      <h1 className="text-4xl text-center md:text-left font-bold mb-6">{title}</h1>
+      <h1 className="text-4xl font-bold mb-6">{title}</h1>
       <p className="text-gray-500">{description}</p>
     </div>
   )
