@@ -16,7 +16,7 @@ const Donations = () => {
     <div className="max-w-[1320px] mx-auto px-3 my-12">
       <figure className="w-full mb-12 relative">
         <img className="w-full rounded-md" src={picture} alt={title} />
-        <div className="bg-black bg-opacity-60 absolute left-0 bottom-0 p-10 w-full rounded-b-md">
+        <div className="bg-black bg-opacity-60 absolute left-0 bottom-0 p-2 md:p-5 lg:p-10 w-full rounded-b-md">
           <button onClick={handleDonate} className="btn text-white rounded" style={{ backgroundColor: text_button_bg }}>Donate ${price}</button>
         </div>
       </figure>
