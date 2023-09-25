@@ -1,4 +1,12 @@
-const Banner = () => {
+import PropTypes from 'prop-types';
+
+const Banner = ({ setSearch }) => {
+
+  const handleSubmit = (e) => {
+    e.preventDefault();
+    const searchText = e.target.search.value;
+    setSearch(searchText)
+  }
   return (
     <div>
       <div className="hero" style={{ backgroundImage: 'url(/banner-bg.jpeg)' }}>
@@ -7,9 +15,9 @@ const Banner = () => {
           <div className="py-16">
             <h1 className="mb-10 text-2xl md:text-4xl lg:text-5xl font-bold">I Grow By Helping People In Need</h1>
             <div className="form-control">
-              <form>
+              <form onSubmit={handleSubmit}>
                 <div className="input-group flex justify-center">
-                  <input type="text" placeholder="Search here..." className="input input-bordered focus:outline-none w-48 md:w-auto" />
+                  <input type="text" name="search" placeholder="Search here..." className="input input-bordered focus:outline-none w-48 md:w-auto" />
                   <button className="btn btn-error text-white">Search</button>
                 </div>
               </form>
@@ -22,3 +30,7 @@ const Banner = () => {
 }
 
 export default Banner
+
+Banner.propTypes = {
+  setSearch: PropTypes.func
+}
