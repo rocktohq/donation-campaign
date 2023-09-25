@@ -69,9 +69,9 @@
     "id": 7,
     "title": "Children's Health Fund",
     "category": "health",
-    "category_bg": "#ff444a33",
-    "card_bg": "#ff444a26",
-    "text_button_bg": "#FF444A",
+    "category_bg": "#0052ff33",
+    "card_bg": "#0052ff26",
+    "text_button_bg": "#0052FF",
     "description": "Help provide healthcare for children in need of medical attention. Every child deserves the chance to grow up healthy and happy. Your donation will support pediatric healthcare initiatives, ensuring that children have access to medical treatment and preventive care. By contributing, you are giving children the gift of a brighter and healthier future. Join us in making a positive impact on the lives of young ones, and let's create a world where every child's health is prioritized.",
     "price": 180,
     "picture": "https://i.ibb.co/SmJxXtv/child-health.jpg"
