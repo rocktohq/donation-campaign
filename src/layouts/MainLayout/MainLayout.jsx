@@ -7,7 +7,6 @@ const MainLayout = () => {
   const navigation = useNavigation();
   const location = useLocation();
 
-  console.log(location.state)
   location.pathname === "/" ? document.title = "Donation Campaign - HOME"
     : location.state ? document.title = location.state : document.title = `Donation Campaign - ${location.pathname.replace("/", "").toUpperCase()}`
 
