@@ -1,6 +1,5 @@
 import PropTypes from 'prop-types';
 import { useNavigate } from 'react-router-dom';
-import Edu1 from "/Food.png";
 
 const DonationCard = ({ donation }) => {
 
@@ -13,8 +12,8 @@ const DonationCard = ({ donation }) => {
 
   return (
     <div onClick={handleOnClick} className="rounded-md cursor-pointer border" style={{ backgroundColor: card_bg }}>
-      <figure className="w-full">
-        <img className="w-full rounded-t-md" src={Edu1} alt="" />
+      <figure className="w-full h-48">
+        <img className="w-full h-full rounded-t-md" src={picture} alt="" />
       </figure>
       <div className="p-4">
         <span className="text-sm capitalize rounded-md px-2 py-1" style={{ backgroundColor: category_bg, color: text_button_bg }}>{category}</span>
