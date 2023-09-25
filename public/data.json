@@ -6,9 +6,9 @@
     "category_bg": "#0052ff33",
     "card_bg": "#0052ff26",
     "text_button_bg": "#0052FF",
-    "description": "Help provide clean and safe drinking water to communities in need.",
-    "price": 25.0,
-    "picture": "clean_water.jpg"
+    "description": "Help provide clean and safe drinking water to communities in need. Access to clean water is a basic human right, yet millions of people around the world still lack it. Your donation will go towards building water purification systems, drilling wells, and providing education on water hygiene. By contributing, you can make a lasting impact on the health and well-being of disadvantaged communities. Join us in the fight for a world where no one has to worry about the safety of the water they drink. Together, we can ensure a brighter and healthier future for generations to come.",
+    "price": 300,
+    "picture": "https://i.ibb.co/d7fRYXq/clean-water-2.jpg"
   },
   {
     "id": 2,
@@ -17,9 +17,9 @@
     "category_bg": "#ff444a33",
     "card_bg": "#ff444a26",
     "text_button_bg": "#FF444A",
-    "description": "Support quality education initiatives for underprivileged children.",
-    "price": 50.0,
-    "picture": "education.jpg"
+    "description": "Support quality education initiatives for underprivileged children. Education is the key to breaking the cycle of poverty and creating a brighter future. Your donation will help fund scholarships, provide school supplies, and improve educational facilities in low-income areas. By contributing, you are giving children the chance to dream big and achieve their full potential. Join us in the mission to ensure that every child, regardless of their background, has access to a quality education. With your support, we can empower the next generation and build a more equitable world where education knows no boundaries.",
+    "price": 240,
+    "picture": "https://i.ibb.co/5KZP9Pv/education-for-all.jpg"
   },
   {
     "id": 3,
@@ -28,9 +28,9 @@
     "category_bg": "#79c23f33",
     "card_bg": "#79c23f26",
     "text_button_bg": "#79C23F",
-    "description": "Help provide shelter and care for homeless animals in your community.",
-    "price": 20.0,
-    "picture": "animal_shelter.jpg"
+    "description": "Help provide shelter and care for homeless animals in your community. Our furry friends deserve love and protection. Your donation will support animal shelters and rescue organizations, providing food, medical care, and a safe haven for animals in need. By contributing, you're giving voice to those who cannot speak for themselves. Join us in the effort to create a world where every animal has a loving home. Together, we can make a profound difference in the lives of our beloved companions.",
+    "price": 140,
+    "picture": "https://i.ibb.co/s1J6bGc/animal-shelter.jpg"
   },
   {
     "id": 4,
@@ -39,9 +39,9 @@
     "category_bg": "#f8714733",
     "card_bg": "#f8714726",
     "text_button_bg": "#F87147",
-    "description": "Contribute to feeding the hungry by supporting local food banks.",
+    "description": "Contribute to feeding the hungry by supporting local food banks. Hunger is a pressing issue in our communities, and your donation can make a significant difference. Your support will help food banks distribute nutritious meals to families facing food insecurity. By contributing, you are providing a lifeline to those in need and helping to build a hunger-free future. Join us in the fight against hunger, and let's work together to ensure that no one goes to bed hungry in our community. Your generosity can be the change we all wish to see.",
     "price": 15.0,
-    "picture": "food_drive.jpg"
+    "picture": "https://i.ibb.co/C85yt0w/Food-Drive.jpg"
   },
   {
     "id": 5,
@@ -50,9 +50,9 @@
     "category_bg": "#0052ff33",
     "card_bg": "#0052ff26",
     "text_button_bg": "#0052FF",
-    "description": "Provide medical aid to those in crisis situations and disaster-stricken areas.",
-    "price": 30.0,
-    "picture": "medical_relief.jpg"
+    "description": "Provide medical aid to those in crisis situations and disaster-stricken areas. In times of emergencies, access to medical care is critical. Your donation will support medical relief efforts, ensuring that affected individuals receive timely and lifesaving treatment. By contributing, you are helping to save lives and alleviate suffering during times of crisis. Join us in making a difference in the face of adversity, and let's stand together as a beacon of hope for those in their darkest hours.",
+    "price": 220,
+    "picture": "https://i.ibb.co/PMGBGCH/medical-relief.jpg"
   },
   {
     "id": 6,
@@ -61,9 +61,9 @@
     "category_bg": "#ff444a33",
     "card_bg": "#ff444a26",
     "text_button_bg": "#FF444A",
-    "description": "Support initiatives to protect and preserve our natural world.",
-    "price": 35.0,
-    "picture": "environmental_conservation.jpg"
+    "description": "Support initiatives to protect and preserve our natural world. Our planet's ecosystems are under threat, and it's our responsibility to protect them. Your donation will support conservation projects, reforestation efforts, and wildlife protection. By contributing, you are safeguarding the environment for future generations, ensuring the survival of endangered species, and combating climate change. Join us in the fight to preserve the beauty and diversity of our planet. Together, we can make a lasting impact on the health and sustainability of our Earth.",
+    "price": 120,
+    "picture": "https://i.ibb.co/ZKvQ1fd/environmental-convervation.jpg"
   },
   {
     "id": 7,
@@ -72,9 +72,9 @@
     "category_bg": "#ff444a33",
     "card_bg": "#ff444a26",
     "text_button_bg": "#FF444A",
-    "description": "Help provide healthcare for children in need of medical attention.",
-    "price": 40.0,
-    "picture": "childrens_health.jpg"
+    "description": "Help provide healthcare for children in need of medical attention. Every child deserves the chance to grow up healthy and happy. Your donation will support pediatric healthcare initiatives, ensuring that children have access to medical treatment and preventive care. By contributing, you are giving children the gift of a brighter and healthier future. Join us in making a positive impact on the lives of young ones, and let's create a world where every child's health is prioritized.",
+    "price": 180,
+    "picture": "https://i.ibb.co/SmJxXtv/child-health.jpg"
   },
   {
     "id": 8,
@@ -83,9 +83,9 @@
     "category_bg": "#79c23f33",
     "card_bg": "#79c23f26",
     "text_button_bg": "#79C23F",
-    "description": "Support efforts to provide shelter and housing for homeless individuals.",
-    "price": 45.0,
-    "picture": "housing_for_homeless.jpg"
+    "description": "Support efforts to provide shelter and housing for homeless individuals. Homelessness is a pressing issue in our society, and your donation can provide hope and stability. Your support will fund housing projects, shelters, and programs to help homeless individuals regain their independence. By contributing, you are helping to change lives and provide a path to a brighter future. Join us in the fight to end homelessness, and let's work together to ensure that everyone has a safe and dignified place to call home.",
+    "price": 150,
+    "picture": "https://i.ibb.co/LSnd8Rg/homeless-housing.jpg"
   },
   {
     "id": 9,
@@ -94,9 +94,9 @@
     "category_bg": "#79c23f33",
     "card_bg": "#79c23f26",
     "text_button_bg": "#79C23F",
-    "description": "Empower artists and promote creativity in your community.",
-    "price": 10.0,
-    "picture": "artistic_expression.jpg"
+    "description": "Empower artists and promote creativity in your community. Art has the power to inspire and transform lives. Your donation will support art programs, workshops, and exhibitions that empower artists of all ages and backgrounds. By contributing, you are fostering creativity, self-expression, and cultural enrichment in your community. Join us in celebrating the beauty of art and its ability to bring people together through the universal language of creativity. Your support can help create a vibrant and artistic community for all to enjoy.",
+    "price": 80,
+    "picture": "https://i.ibb.co/7KYJPTw/Artistic-Expression.webp"
   },
   {
     "id": 10,
@@ -105,9 +105,9 @@
     "category_bg": "#0052ff33",
     "card_bg": "#0052ff26",
     "text_button_bg": "#0052FF",
-    "description": "Support programs that provide care and assistance to senior citizens.",
-    "price": 55.0,
-    "picture": "elderly_care.jpg"
+    "description": "Support programs that provide care and assistance to senior citizens. Our elderly population deserves respect, dignity, and quality care. Your donation will support programs that offer medical assistance, companionship, and social activities for seniors. By contributing, you are helping to improve the quality of life for older adults and ensure that they can age with grace and comfort. Join us in making a difference in the lives of our senior citizens, and let's create a society that values and cares for its elders.",
+    "price": 250,
+    "picture": "https://i.ibb.co/z4Pt9hx/Elderly-Care.jpg"
   },
   {
     "id": 11,
@@ -116,9 +116,9 @@
     "category_bg": "#f8714733",
     "card_bg": "#f8714726",
     "text_button_bg": "#F87147",
-    "description": "Help protect endangered species and their habitats.",
-    "price": 30.0,
-    "picture": "wildlife_conservation.jpg"
+    "description": "Help protect endangered species and their habitats. Wildlife conservation is crucial to maintaining the delicate balance of our ecosystems. Your donation will support initiatives aimed at preserving endangered species, conserving habitats, and combatting illegal poaching. By contributing, you are playing a vital role in protecting the planet's biodiversity for future generations. Join us in the fight to ensure that the world remains a vibrant and diverse place for all living creatures.",
+    "price": 100,
+    "picture": "https://i.ibb.co/ZGGmrB7/wildlife-conervation-1.jpg"
   },
   {
     "id": 12,
@@ -127,8 +127,8 @@
     "category_bg": "#f8714733",
     "card_bg": "#f8714726",
     "text_button_bg": "#F87147",
-    "description": "Support disaster relief efforts to assist those affected by natural disasters.",
-    "price": 50.0,
-    "picture": "disaster_relief.jpg"
+    "description": "Support disaster relief efforts to assist those affected by natural disasters. Disasters can strike at any time, leaving communities in turmoil. Your donation will provide immediate relief by supplying food, water, shelter, and medical assistance to disaster-stricken areas. By contributing, you are helping people rebuild their lives and communities in the aftermath of devastation. Join us in making a difference in the lives of those facing the toughest challenges, and let's stand together as a source of hope and support during their time of need.",
+    "price": 200,
+    "picture": "https://i.ibb.co/2dLWDtd/disaster-relief.jpg"
   }
 ]
