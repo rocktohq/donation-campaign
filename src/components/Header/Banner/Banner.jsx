@@ -8,7 +8,7 @@ const Banner = ({ setSearch }) => {
     setSearch(searchText)
   }
   return (
-    <div>
+    <div className="max-h-96">
       <div className="hero" style={{ backgroundImage: 'url(/banner-bg.jpeg)' }}>
         <div className="bg-white bg-opacity-90 hero-overlay"></div>
         <div className="hero-content text-center text-gray-900">
@@ -18,7 +18,7 @@ const Banner = ({ setSearch }) => {
               <form onSubmit={handleSubmit}>
                 <div className="input-group flex justify-center">
                   <input type="text" name="search" placeholder="Search here..." className="input input-bordered focus:outline-none w-48 md:w-auto" />
-                  <button className="btn btn-error text-white">Search</button>
+                  <button className="btn btn-error bg-[#ff444a] text-white">Search</button>
                 </div>
               </form>
             </div>

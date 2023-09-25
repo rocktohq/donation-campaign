@@ -23,7 +23,7 @@ const Donation = () => {
                 }
               </div>
               <div className={`text-center mt-10 ${seeDonations >= donations.length && "hidden"}`}>
-                <button onClick={() => setSeeDonations(donations.length)} className="btn btn-success text-white bg-[#009444] rounded">See All</button>
+                <button onClick={() => setSeeDonations(donations.length)} className="btn btn-success text-white bg-[#009444] rounded border-none">See All</button>
               </div>
             </>
           )
