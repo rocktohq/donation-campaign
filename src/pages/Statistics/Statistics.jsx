@@ -1,10 +1,21 @@
 import { PieChart, Pie, Cell, Legend } from 'recharts';
-
+import { getLocalData } from '../../utils/localStorage/localStorage';
+import { useEffect, useState } from 'react';
 
 const Statistics = () => {
+
+  const [donations, setDonations] = useState(0);
+  const donated = getLocalData();
+
+  useEffect(() => {
+    fetch("/data.json")
+      .then(res => res.json())
+      .then(data => setDonations(data.length))
+  }, [])
+
   const data = [
-    { name: 'Total Donation', value: 20 },
-    { name: 'Your Donation', value: 4 }
+    { name: 'Total Donation', value: donations },
+    { name: 'Your Donation', value: donated.length }
   ];
 
   const COLORS = ['#FF444A', '#00C49F'];
