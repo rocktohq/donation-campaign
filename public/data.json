@@ -23,14 +23,14 @@
   },
   {
     "id": 3,
-    "title": "Animal Shelter Fund",
+    "title": "Artistic Expression",
     "category": "clothing",
     "category_bg": "#79c23f33",
     "card_bg": "#79c23f26",
     "text_button_bg": "#79C23F",
-    "description": "Help provide shelter and care for homeless animals in your community. Our furry friends deserve love and protection. Your donation will support animal shelters and rescue organizations, providing food, medical care, and a safe haven for animals in need. By contributing, you're giving voice to those who cannot speak for themselves. Join us in the effort to create a world where every animal has a loving home. Together, we can make a profound difference in the lives of our beloved companions.",
-    "price": 140,
-    "picture": "https://i.ibb.co/s1J6bGc/animal-shelter.jpg"
+    "description": "Empower artists and promote creativity in your community. Art has the power to inspire and transform lives. Your donation will support art programs, workshops, and exhibitions that empower artists of all ages and backgrounds. By contributing, you are fostering creativity, self-expression, and cultural enrichment in your community. Join us in celebrating the beauty of art and its ability to bring people together through the universal language of creativity. Your support can help create a vibrant and artistic community for all to enjoy.",
+    "price": 80,
+    "picture": "https://i.ibb.co/7KYJPTw/Artistic-Expression.webp"
   },
   {
     "id": 4,
@@ -78,28 +78,39 @@
   },
   {
     "id": 8,
-    "title": "Housing for Homeless",
-    "category": "clothing",
-    "category_bg": "#79c23f33",
-    "card_bg": "#79c23f26",
-    "text_button_bg": "#79C23F",
+    "title": "Food for Homeless",
+    "category": "food",
+    "category_bg": "#f8714733",
+    "card_bg": "#f8714726",
+    "text_button_bg": "#F87147",
     "description": "Support efforts to provide shelter and housing for homeless individuals. Homelessness is a pressing issue in our society, and your donation can provide hope and stability. Your support will fund housing projects, shelters, and programs to help homeless individuals regain their independence. By contributing, you are helping to change lives and provide a path to a brighter future. Join us in the fight to end homelessness, and let's work together to ensure that everyone has a safe and dignified place to call home.",
     "price": 150,
-    "picture": "https://i.ibb.co/LSnd8Rg/homeless-housing.jpg"
+    "picture": "https://i.ibb.co/DWSDBdS/food-for-homeless.jpg"
   },
   {
     "id": 9,
-    "title": "Artistic Expression",
+    "title": "Animal Shelter Fund",
     "category": "clothing",
     "category_bg": "#79c23f33",
     "card_bg": "#79c23f26",
     "text_button_bg": "#79C23F",
-    "description": "Empower artists and promote creativity in your community. Art has the power to inspire and transform lives. Your donation will support art programs, workshops, and exhibitions that empower artists of all ages and backgrounds. By contributing, you are fostering creativity, self-expression, and cultural enrichment in your community. Join us in celebrating the beauty of art and its ability to bring people together through the universal language of creativity. Your support can help create a vibrant and artistic community for all to enjoy.",
-    "price": 80,
-    "picture": "https://i.ibb.co/7KYJPTw/Artistic-Expression.webp"
+    "description": "Help provide shelter and care for homeless animals in your community. Our furry friends deserve love and protection. Your donation will support animal shelters and rescue organizations, providing food, medical care, and a safe haven for animals in need. By contributing, you're giving voice to those who cannot speak for themselves. Join us in the effort to create a world where every animal has a loving home. Together, we can make a profound difference in the lives of our beloved companions.",
+    "price": 140,
+    "picture": "https://i.ibb.co/s1J6bGc/animal-shelter.jpg"
   },
   {
     "id": 10,
+    "title": "Disaster Relief",
+    "category": "food",
+    "category_bg": "#f8714733",
+    "card_bg": "#f8714726",
+    "text_button_bg": "#F87147",
+    "description": "Support disaster relief efforts to assist those affected by natural disasters. Disasters can strike at any time, leaving communities in turmoil. Your donation will provide immediate relief by supplying food, water, shelter, and medical assistance to disaster-stricken areas. By contributing, you are helping people rebuild their lives and communities in the aftermath of devastation. Join us in making a difference in the lives of those facing the toughest challenges, and let's stand together as a source of hope and support during their time of need.",
+    "price": 200,
+    "picture": "https://i.ibb.co/2dLWDtd/disaster-relief.jpg"
+  },
+  {
+    "id": 11,
     "title": "Elderly Care",
     "category": "health",
     "category_bg": "#0052ff33",
@@ -110,7 +121,7 @@
     "picture": "https://i.ibb.co/z4Pt9hx/Elderly-Care.jpg"
   },
   {
-    "id": 11,
+    "id": 12,
     "title": "Wildlife Conservation",
     "category": "food",
     "category_bg": "#f8714733",
@@ -119,16 +130,5 @@
     "description": "Help protect endangered species and their habitats. Wildlife conservation is crucial to maintaining the delicate balance of our ecosystems. Your donation will support initiatives aimed at preserving endangered species, conserving habitats, and combatting illegal poaching. By contributing, you are playing a vital role in protecting the planet's biodiversity for future generations. Join us in the fight to ensure that the world remains a vibrant and diverse place for all living creatures.",
     "price": 100,
     "picture": "https://i.ibb.co/ZGGmrB7/wildlife-conervation-1.jpg"
-  },
-  {
-    "id": 12,
-    "title": "Disaster Relief",
-    "category": "food",
-    "category_bg": "#f8714733",
-    "card_bg": "#f8714726",
-    "text_button_bg": "#F87147",
-    "description": "Support disaster relief efforts to assist those affected by natural disasters. Disasters can strike at any time, leaving communities in turmoil. Your donation will provide immediate relief by supplying food, water, shelter, and medical assistance to disaster-stricken areas. By contributing, you are helping people rebuild their lives and communities in the aftermath of devastation. Join us in making a difference in the lives of those facing the toughest challenges, and let's stand together as a source of hope and support during their time of need.",
-    "price": 200,
-    "picture": "https://i.ibb.co/2dLWDtd/disaster-relief.jpg"
   }
 ]
