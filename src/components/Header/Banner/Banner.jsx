@@ -9,7 +9,7 @@ const Banner = ({ setSearch }) => {
   }
   return (
     <>
-      <div className="hero md:h-96" style={{ backgroundImage: 'url(/banner-bg.jpeg)' }}>
+      <div className="hero md:h-96 lg:h-[420px] 2xl:h-[500px]" style={{ backgroundImage: 'url(/banner-bg.jpeg)' }}>
         <div className="bg-white bg-opacity-90 hero-overlay"></div>
         <div className="hero-content text-center text-gray-900">
           <div className="py-16">
