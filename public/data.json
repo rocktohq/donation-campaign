@@ -23,14 +23,14 @@
   },
   {
     "id": 3,
-    "title": "Artistic Expression",
+    "title": "Kids Clothing Drive",
     "category": "clothing",
     "category_bg": "#79c23f33",
     "card_bg": "#79c23f26",
     "text_button_bg": "#79C23F",
-    "description": "Empower artists and promote creativity in your community. Art has the power to inspire and transform lives. Your donation will support art programs, workshops, and exhibitions that empower artists of all ages and backgrounds. By contributing, you are fostering creativity, self-expression, and cultural enrichment in your community. Join us in celebrating the beauty of art and its ability to bring people together through the universal language of creativity. Your support can help create a vibrant and artistic community for all to enjoy.",
+    "description": "Our 'Kids' Clothing Drive' focuses on collecting children's clothing, from infant onesies to school-age outfits. By contributing to this campaign, you're ensuring that families in need have access to essential clothing for their growing children. Your kindness helps kids feel confident and ready to learn, no matter their circumstances.",
     "price": 80,
-    "picture": "https://i.ibb.co/7KYJPTw/Artistic-Expression.webp"
+    "picture": "https://i.ibb.co/Hg4W9tD/kids-clothing-drive.jpg"
   },
   {
     "id": 4,
@@ -45,39 +45,6 @@
   },
   {
     "id": 5,
-    "title": "Medical Relief",
-    "category": "health",
-    "category_bg": "#0052ff33",
-    "card_bg": "#0052ff26",
-    "text_button_bg": "#0052FF",
-    "description": "Provide medical aid to those in crisis situations and disaster-stricken areas. In times of emergencies, access to medical care is critical. Your donation will support medical relief efforts, ensuring that affected individuals receive timely and lifesaving treatment. By contributing, you are helping to save lives and alleviate suffering during times of crisis. Join us in making a difference in the face of adversity, and let's stand together as a beacon of hope for those in their darkest hours.",
-    "price": 220,
-    "picture": "https://i.ibb.co/PMGBGCH/medical-relief.jpg"
-  },
-  {
-    "id": 6,
-    "title": "Environmental Conservation",
-    "category": "education",
-    "category_bg": "#ff444a33",
-    "card_bg": "#ff444a26",
-    "text_button_bg": "#FF444A",
-    "description": "Support initiatives to protect and preserve our natural world. Our planet's ecosystems are under threat, and it's our responsibility to protect them. Your donation will support conservation projects, reforestation efforts, and wildlife protection. By contributing, you are safeguarding the environment for future generations, ensuring the survival of endangered species, and combating climate change. Join us in the fight to preserve the beauty and diversity of our planet. Together, we can make a lasting impact on the health and sustainability of our Earth.",
-    "price": 120,
-    "picture": "https://i.ibb.co/ZKvQ1fd/environmental-convervation.jpg"
-  },
-  {
-    "id": 7,
-    "title": "Children's Health Fund",
-    "category": "health",
-    "category_bg": "#0052ff33",
-    "card_bg": "#0052ff26",
-    "text_button_bg": "#0052FF",
-    "description": "Help provide healthcare for children in need of medical attention. Every child deserves the chance to grow up healthy and happy. Your donation will support pediatric healthcare initiatives, ensuring that children have access to medical treatment and preventive care. By contributing, you are giving children the gift of a brighter and healthier future. Join us in making a positive impact on the lives of young ones, and let's create a world where every child's health is prioritized.",
-    "price": 180,
-    "picture": "https://i.ibb.co/SmJxXtv/child-health.jpg"
-  },
-  {
-    "id": 8,
     "title": "Food for Homeless",
     "category": "food",
     "category_bg": "#f8714733",
@@ -88,29 +55,40 @@
     "picture": "https://i.ibb.co/DWSDBdS/food-for-homeless.jpg"
   },
   {
-    "id": 9,
-    "title": "Animal Shelter Fund",
+    "id": 6,
+    "title": "Dress for Success",
     "category": "clothing",
     "category_bg": "#79c23f33",
     "card_bg": "#79c23f26",
     "text_button_bg": "#79C23F",
-    "description": "Help provide shelter and care for homeless animals in your community. Our furry friends deserve love and protection. Your donation will support animal shelters and rescue organizations, providing food, medical care, and a safe haven for animals in need. By contributing, you're giving voice to those who cannot speak for themselves. Join us in the effort to create a world where every animal has a loving home. Together, we can make a profound difference in the lives of our beloved companions.",
+    "description": "Step into the world of 'Dress for Success,' a clothing donation campaign that goes beyond giving attire—it empowers individuals to transform their lives. Your donations of professional clothing, including suits, dress shirts, blouses, and work-appropriate accessories, can make a profound difference for job seekers in our community. We believe that everyone deserves an opportunity to thrive in their chosen careers. 'Dress for Success' helps break down barriers by providing interview-ready attire to those striving for employment. When you contribute to this campaign, you're not just giving clothes; you're offering confidence, self-assuredness, and the chance for individuals to make a lasting impression during interviews. Join us in dressing for success and supporting the dreams of our fellow community members.",
     "price": 140,
-    "picture": "https://i.ibb.co/s1J6bGc/animal-shelter.jpg"
+    "picture": "https://i.ibb.co/M9Q3Y5N/dress-for-success.jpg"
   },
   {
-    "id": 10,
-    "title": "Disaster Relief",
-    "category": "food",
-    "category_bg": "#f8714733",
-    "card_bg": "#f8714726",
-    "text_button_bg": "#F87147",
-    "description": "Support disaster relief efforts to assist those affected by natural disasters. Disasters can strike at any time, leaving communities in turmoil. Your donation will provide immediate relief by supplying food, water, shelter, and medical assistance to disaster-stricken areas. By contributing, you are helping people rebuild their lives and communities in the aftermath of devastation. Join us in making a difference in the lives of those facing the toughest challenges, and let's stand together as a source of hope and support during their time of need.",
-    "price": 200,
-    "picture": "https://i.ibb.co/2dLWDtd/disaster-relief.jpg"
+    "id": 7,
+    "title": "Girls Education Initiative",
+    "category": "education",
+    "category_bg": "#ff444a33",
+    "card_bg": "#ff444a26",
+    "text_button_bg": "#FF444A",
+    "description": "Empower girls worldwide through our 'Girls' Education Initiative.' Your contributions fund scholarships, mentorship programs, and educational resources specifically tailored to advance girls' education. Join us in breaking down barriers and promoting gender equality in learning.",
+    "price": 120,
+    "picture": "https://i.ibb.co/T0SbH7F/girls-education.jpg"
   },
   {
-    "id": 11,
+    "id": 8,
+    "title": "Children's Health Fund",
+    "category": "health",
+    "category_bg": "#0052ff33",
+    "card_bg": "#0052ff26",
+    "text_button_bg": "#0052FF",
+    "description": "Help provide healthcare for children in need of medical attention. Every child deserves the chance to grow up healthy and happy. Your donation will support pediatric healthcare initiatives, ensuring that children have access to medical treatment and preventive care. By contributing, you are giving children the gift of a brighter and healthier future. Join us in making a positive impact on the lives of young ones, and let's create a world where every child's health is prioritized.",
+    "price": 180,
+    "picture": "https://i.ibb.co/SmJxXtv/child-health.jpg"
+  },
+  {
+    "id": 9,
     "title": "Elderly Care",
     "category": "health",
     "category_bg": "#0052ff33",
@@ -121,14 +99,36 @@
     "picture": "https://i.ibb.co/z4Pt9hx/Elderly-Care.jpg"
   },
   {
+    "id": 10,
+    "title": "Books for Bright Minds",
+    "category": "education",
+    "category_bg": "#ff444a33",
+    "card_bg": "#ff444a26",
+    "text_button_bg": "#FF444A",
+    "description": "Join our 'Books for Bright Minds' campaign and be a part of a transformative educational journey. Your donations of new and gently used books help provide learning opportunities to children who may not have access to them otherwise. By contributing to this campaign, you're fostering a love for reading and empowering young minds to reach their full potential.",
+    "price": 220,
+    "picture": "https://i.ibb.co/m9TpkKy/books-for-bright-minds.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Warmth for All",
+    "category": "clothing",
+    "category_bg": "#79c23f33",
+    "card_bg": "#79c23f26",
+    "text_button_bg": "#79C23F",
+    "description": "Welcome to our 'Warmth for All' clothing donation campaign, where your kindness can bring comfort to those in need. As the colder months approach, many individuals in our community struggle to stay warm. You can make a significant impact by contributing gently used clothing items like coats, sweaters, blankets, and scarves. These simple acts of generosity not only help declutter your wardrobe but also provide a lifeline of warmth and comfort to those facing chilly temperatures. By participating in 'Warmth for All,' you become a beacon of hope, spreading warmth and love throughout our community, one garment at a time.",
+    "price": 100,
+    "picture": "https://i.ibb.co/pdFjZYM/warm-clothing.jpg"
+  },
+  {
     "id": 12,
-    "title": "Wildlife Conservation",
+    "title": "Disaster Relief",
     "category": "food",
     "category_bg": "#f8714733",
     "card_bg": "#f8714726",
     "text_button_bg": "#F87147",
-    "description": "Help protect endangered species and their habitats. Wildlife conservation is crucial to maintaining the delicate balance of our ecosystems. Your donation will support initiatives aimed at preserving endangered species, conserving habitats, and combatting illegal poaching. By contributing, you are playing a vital role in protecting the planet's biodiversity for future generations. Join us in the fight to ensure that the world remains a vibrant and diverse place for all living creatures.",
-    "price": 100,
-    "picture": "https://i.ibb.co/ZGGmrB7/wildlife-conervation-1.jpg"
+    "description": "Support disaster relief efforts to assist those affected by natural disasters. Disasters can strike at any time, leaving communities in turmoil. Your donation will provide immediate relief by supplying food, water, shelter, and medical assistance to disaster-stricken areas. By contributing, you are helping people rebuild their lives and communities in the aftermath of devastation. Join us in making a difference in the lives of those facing the toughest challenges, and let's stand together as a source of hope and support during their time of need.",
+    "price": 200,
+    "picture": "https://i.ibb.co/2dLWDtd/disaster-relief.jpg"
   }
 ]
