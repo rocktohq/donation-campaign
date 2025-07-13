@@ -21,7 +21,7 @@ const Home = () => {
 
         {
           allDonations.length > 0 ? (
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5 my-12">
+            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-5 my-12">
               {
                 allDonations.map(donation => <DonationCard key={donation.id} donation={donation}></DonationCard>)
               }
