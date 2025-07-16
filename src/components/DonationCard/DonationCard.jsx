@@ -1,12 +1,12 @@
 import PropTypes from 'prop-types';
-import { Link } from 'react-router-dom';
+// import { Link } from 'react-router-dom';
 
 const DonationCard = ({ donation }) => {
 
   const { title, category, category_bg, card_bg, text_button_bg, picture, link } = donation;
 
   return (
-    <Link to={`${link}`} state={title}>
+    <a href={link} target='_blank' rel="noreferrer">
       <div className="rounded-md cursor-pointer border" style={{ backgroundColor: card_bg }}>
         <figure className="w-full h-48">
           <img className="w-full h-full rounded-t-md" src={picture} alt="" />
@@ -16,7 +16,7 @@ const DonationCard = ({ donation }) => {
           <h2 className="text-xl font-semibold mt-2" style={{ color: text_button_bg }}>{title}</h2>
         </div>
       </div>
-    </Link>
+    </a>
   )
 }
 
