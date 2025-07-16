@@ -1,10 +1,6 @@
-import LogoImg from "/logo.png";
-
 const Logo = () => {
   return (
-    <figure>
-      <img src={LogoImg} alt="Logo" />
-    </figure>
+    <h2 className="font-bold text-3xl">JobsHQ</h2>
   )
 }
 

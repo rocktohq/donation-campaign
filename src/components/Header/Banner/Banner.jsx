@@ -9,11 +9,11 @@ const Banner = ({ setSearch }) => {
   }
   return (
     <>
-      <div className="hero md:h-96 2xl:h-[460px]" style={{ backgroundImage: 'url(/banner-bg.jpeg)' }}>
+      <div className="hero md:h-96 2xl:h-[460px] bg-cyan-400">
         <div className="bg-white bg-opacity-90 hero-overlay"></div>
         <div className="hero-content text-center text-gray-900">
           <div className="py-16">
-            <h1 className="mb-10 text-2xl md:text-4xl lg:text-5xl font-bold">I Grow By Helping People In Need</h1>
+            <h1 className="mb-10 text-2xl md:text-4xl lg:text-5xl font-bold">Find High Paying Jobs</h1>
             <div className="form-control">
               <form onSubmit={handleSubmit}>
                 <div className="input-group flex justify-center">

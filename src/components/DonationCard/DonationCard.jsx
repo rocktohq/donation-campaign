@@ -3,10 +3,10 @@ import { Link } from 'react-router-dom';
 
 const DonationCard = ({ donation }) => {
 
-  const { id, title, category, category_bg, card_bg, text_button_bg, picture } = donation;
+  const { title, category, category_bg, card_bg, text_button_bg, picture, link } = donation;
 
   return (
-    <Link to={`/donations/${id}`} state={title}>
+    <Link to={`${link}`} state={title}>
       <div className="rounded-md cursor-pointer border" style={{ backgroundColor: card_bg }}>
         <figure className="w-full h-48">
           <img className="w-full h-full rounded-t-md" src={picture} alt="" />
