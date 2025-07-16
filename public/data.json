@@ -10,5 +10,41 @@
     "price": 300,
     "picture": "https://i.ibb.co/d7fRYXq/clean-water-2.jpg",
     "link": "https://www.af9m8trk.com/TDP11K59/VFF124N1"
+  },
+  {
+    "id": 2,
+    "title": "Education for All",
+    "category": "education",
+    "category_bg": "#ff444a33",
+    "card_bg": "#ff444a26",
+    "text_button_bg": "#FF444A",
+    "description": "Support quality education initiatives for underprivileged children. Education is the key to breaking the cycle of poverty and creating a brighter future. Your donation will help fund scholarships, provide school supplies, and improve educational facilities in low-income areas. By contributing, you are giving children the chance to dream big and achieve their full potential. Join us in the mission to ensure that every child, regardless of their background, has access to a quality education. With your support, we can empower the next generation and build a more equitable world where education knows no boundaries.",
+    "price": 240,
+    "picture": "https://i.ibb.co/5KZP9Pv/education-for-all.jpg",
+    "link": "https://www.af9m8trk.com/TDP11K59/VFF124N1"
+  },
+  {
+    "id": 3,
+    "title": "Kids Clothing Drive",
+    "category": "Fashion",
+    "category_bg": "#79c23f33",
+    "card_bg": "#79c23f26",
+    "text_button_bg": "#79C23F",
+    "description": "Our 'Kids' Clothing Drive' focuses on collecting children's clothing, from infant onesies to school-age outfits. By contributing to this campaign, you're ensuring that families in need have access to essential clothing for their growing children. Your kindness helps kids feel confident and ready to learn, no matter their circumstances.",
+    "price": 80,
+    "picture": "https://i.ibb.co/Hg4W9tD/kids-clothing-drive.jpg",
+    "link": "https://www.af9m8trk.com/TDP11K59/VFF124N1"
+  },
+  {
+    "id": 4,
+    "title": "Food Drive",
+    "category": "food ministry",
+    "category_bg": "#f8714733",
+    "card_bg": "#f8714726",
+    "text_button_bg": "#F87147",
+    "description": "Contribute to feeding the hungry by supporting local food banks. Hunger is a pressing issue in our communities, and your donation can make a significant difference. Your support will help food banks distribute nutritious meals to families facing food insecurity. By contributing, you are providing a lifeline to those in need and helping to build a hunger-free future. Join us in the fight against hunger, and let's work together to ensure that no one goes to bed hungry in our community. Your generosity can be the change we all wish to see.",
+    "price": 150,
+    "picture": "https://i.ibb.co/C85yt0w/Food-Drive.jpg",
+    "link": "https://www.af9m8trk.com/TDP11K59/VFF124N1"
   }
 ]
